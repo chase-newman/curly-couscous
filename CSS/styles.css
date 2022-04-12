@@ -9,5 +9,8 @@ h1 {
     font-family: 'Lobster', cursive;
     font-size: 3rem;
     display: inline;
+} 
+p {
+    color: white;
 }
 
